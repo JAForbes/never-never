@@ -73,6 +73,6 @@ module.exports = {
 What's with the name?
 ====================
 
-Never Never is an Australian term for "the outback" which is an Australian term for "whoop whoop" which is an Australian term for "beyond the black stump" which is an Australian term for ...
+Never Never is an Australian term for "the outback" which is an Australian term for "whoop whoop" which is an Australian term for "beyond the black stump" which is an Australian term for "back of beyond" which is an Australian term for ...
 
 [Never Never](https://en.wikipedia.org/wiki/Never_Never_(Australian_outback))
